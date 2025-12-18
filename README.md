@@ -21,7 +21,7 @@
 ![IntelliJ](https://img.shields.io/badge/intellij-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 Experienced (8+ years) in:
-- programming backends (Java), databases (SQL, CQL), Discord bots (Java), webservers (Java, Rust), websites (Vue, JS), Minecraft plugins (Java), ESP/AVR microcontrollers (C, C++), reports (LaTeX);
+- programming backends (Java), databases (SQL, CQL), Discord bots (Java), webservers (Java), websites (Vue, JS), Minecraft plugins (Java), ESP/AVR microcontrollers (C, C++), reports (LaTeX);
 - managing DNS, Linux servers (Debian, Alpine), Docker, firewalls, proxies (nginx, Caddy);
 - using RegEx, SSH, AMQP, MQTT, Redis.
 
